@@ -1,0 +1,14 @@
+.header{
+    text-align: center;
+    background-color: pink;
+}
+.middle{
+    text-align:left;
+}
+.headstyle{
+    display:flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: flex-start;
+    margin: auto;
+}
